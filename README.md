@@ -1,8 +1,12 @@
 <div align="center" width="50">
-
-<img src="https://github.com/ton-username/ton-repo/blob/main/hirchaou_youssef_typing.gif" alt="Hirchaou Youssef" width="60%"/>
+<img src="https://github.com/HRyoussef/HRyoussef/blob/66ec6c9f2cd266217cef59858b3481c4efb9ca32/hirchaou_youssef_neon.gif" alt="Hirchaou Youssef" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
+
+
+
+
 <p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
