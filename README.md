@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://github.com/HRyoussef/HRyoussef/blob/66ec6c9f2cd266217cef59858b3481c4efb9ca32/hirchaou_youssef_neon.gif" alt="Hirchaou Youssef" width="60%"/> <br>
+<img src="https://github.com/HRyoussef/HRyoussef/blob/66ec6c9f2cd266217cef59858b3481c4efb9ca32/hirchaou_intro_explorers.gif" alt="Hirchaou Youssef" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
