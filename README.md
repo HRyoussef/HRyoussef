@@ -40,7 +40,7 @@
 
 class HirchaouYoussef:
   def __init__(self):
-    self.role = "Data Analyst / Data Scientist"
+    self.role = "Data Engineer & AI"
     self.languages = ["Python", "R", "SQL"]
     self.libraries = ["Pandas", "Numpy", "Scikit-Learn", "TensorFlow"]
     self.bi_tools = ["Power BI", "Tableau", "Excel"]
@@ -52,7 +52,7 @@ class HirchaouYoussef:
 
 ## 👨‍💻 About Me
 
-* 📊 Passionné par la **Data Science et l’Analytics**
+* 📊 Passionné par la **Data Engineer & AI**
 * 🧠 J’explore le **Machine Learning & Deep Learning**
 * 📈 Expérience en **Data Visualization & BI**
 * 🌱 J’améliore mes compétences en **Big Data & Cloud**
