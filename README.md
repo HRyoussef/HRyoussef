@@ -15,7 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hirchaouyoussef&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhirchaouyoussef&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Linkedin Badge](https://img.shields.io/badge/-Youssef%20Hirchaou-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonlinkedin)  
+[![Linkedin Badge](https://img.shields.io/badge/-Youssef%20Hirchaou-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hirchaou-youssef-5aa42ba0/)  
 </div>
 
 <hr>
