@@ -56,7 +56,7 @@ class HirchaouYoussef:
 * 🧠 J’explore le **Machine Learning & Deep Learning**
 * 📈 Expérience en **Data Visualization & BI**
 * 🌱 J’améliore mes compétences en **Big Data & Cloud**
-* 📬 Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/tonlinkedin)
+* 📬 Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/hirchaou-youssef-5aa42ba0/)
 
 ---
 
