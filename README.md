@@ -55,13 +55,11 @@ class HirchaouYoussef:
 ---
 
 <div align="center">
-<a href="https://github.com/HRyoussef">
-<img src="https://raw.githubusercontent.com/HRyoussef/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/HRyoussef/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/HRyoussef/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
-<details>
-  <summary>📊 More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/HRyoussef/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRyoussef&show_icons=true&theme=nord&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRyoussef&layout=compact&theme=nord&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HRyoussef&theme=nord&hide_border=true)
+
 </div>
